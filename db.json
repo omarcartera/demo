@@ -1,4 +1,6 @@
 {
-  "state": 0,
-  "endpoint": "ideeha@ya.soso"
+  "server": {
+    "state": 0,
+    "endpoint": "ideeha@soso.com"
+  }
 }
