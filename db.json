@@ -1,6 +1,6 @@
 {
   "server": {
     "state": 1,
-    "endpoint": "ideeha@soso.com"
+    "endpoint": "https://192.168.2.22:8070/main.bin"
   }
 }
